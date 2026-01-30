@@ -1,0 +1,36 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+body{
+  margin: 0;
+  align-items: top;
+  justify-content: center;
+}
+
+.text-left{
+  text-align: left;
+}
+.default-input{
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  width: 100%;
+  margin-bottom: 10px;
+  font-size: 14px;
+  max-width: 800px;
+}
+
+.recipe-output{
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  width: 100%;
+  margin-top: 10px;
+  font-size: 14px;
+  max-width: 800px;
+  text-align: left;
+  white-space: pre-wrap;
+}
